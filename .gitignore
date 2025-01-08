@@ -99,6 +99,7 @@ dist
 .docusaurus
 
 # Project specific
+/annotations/
 /annotations/*.json
 /annotations/images/*.jpg
 /annotations/images/*.jpeg

@@ -285,7 +285,7 @@ class SaveAnnotations(Resource):
 
             # Sauvegarder l'image originale si fournie
             if 'image' in data:
-                image_folder = os.path.join('annotations', 'images')
+                image_folder = os.path.join('../annotations', 'images')
                 os.makedirs(image_folder, exist_ok=True)
                 image_path = os.path.join(image_folder, f"{data['image_id']}.jpg")
                 

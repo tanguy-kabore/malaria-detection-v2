@@ -99,10 +99,11 @@ dist
 .docusaurus
 
 # Project specific
-/annotations/*.jpg
-/annotations/*.jpeg
-/annotations/*.png
-/annotations/*.gif
+/annotations/*.json
+/annotations/images/*.jpg
+/annotations/images/*.jpeg
+/annotations/images/*.png
+/annotations/images/*.gif
 /models/*.h5
 /models/*.pkl
 /models/*.model

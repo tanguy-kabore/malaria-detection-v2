@@ -104,15 +104,3 @@ L'API REST est documentée avec Swagger et accessible à `http://localhost:5000/
 
 - **Détection** : 27,558 images de cellules (équilibrées)
 - **Segmentation** : 2,656 images (1,328 originales + masques)
-
-## Licence
-
-[Spécifier la licence]
-
-## Contributeurs
-
-[Liste des contributeurs]
-
-## Contact
-
-[Informations de contact]

@@ -1,0 +1,64 @@
+MalariaScope : Système Intelligent de Détection du Paludisme
+par Images Microscopiques
+
+Mémoire de Projet
+
+Table des matières
+
+Introduction
+1. Contexte et Problématique
+   1.1. Le paludisme : un défi mondial de santé publique
+   1.2. Diagnostic traditionnel et ses limites
+   1.3. Apport de l'intelligence artificielle
+
+2. État de l'Art
+   2.1. Méthodes traditionnelles de détection
+   2.2. Applications de l'apprentissage profond en microscopie médicale
+   2.3. Solutions existantes et leurs limites
+
+3. Architecture du Système
+   3.1. Vue d'ensemble
+   3.2. Backend (Flask)
+        3.2.1. Segmentation des cellules
+        3.2.2. Détection des parasites
+        3.2.3. API REST
+   3.3. Frontend (React)
+        3.3.1. Interface utilisateur
+        3.3.2. Visualisation des résultats
+        3.3.3. Système d'annotation
+
+4. Modèles d'Intelligence Artificielle
+   4.1. Segmentation avec TernausNet
+        4.1.1. Architecture du modèle
+        4.1.2. Entraînement et dataset
+        4.1.3. Résultats et performances
+   4.2. Détection avec EfficientNet
+        4.2.1. Approche par ensemble
+        4.2.2. Dataset et prétraitement
+        4.2.3. Métriques de performance
+
+5. Implémentation Technique
+   5.1. Technologies utilisées
+   5.2. Pipeline de traitement
+   5.3. Optimisations et améliorations
+   5.4. Documentation API
+
+6. Résultats et Évaluation
+   6.1. Performances globales
+   6.2. Cas d'utilisation
+   6.3. Retours utilisateurs
+   6.4. Limitations actuelles
+
+7. Perspectives et Améliorations
+   7.1. Améliorations techniques
+   7.2. Extensions fonctionnelles
+   7.3. Déploiement à grande échelle
+
+Conclusion
+
+Bibliographie
+
+Annexes
+A. Guide d'installation
+B. Documentation API
+C. Exemples de résultats

@@ -1,0 +1,231 @@
+[
+  {
+    "timestamp": "2025-01-05T14:42:36.482155",
+    "cells": [
+      {
+        "cell_id": 0,
+        "bbox": [
+          9,
+          35,
+          54,
+          79
+        ],
+        "is_infected": false,
+        "confidence": 0.9717262573540211,
+        "metrics": {
+          "mean_score": 0.028273742645978928,
+          "std_prediction": 0.04159550741314888,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 1,
+        "bbox": [
+          16,
+          241,
+          80,
+          295
+        ],
+        "is_infected": false,
+        "confidence": 0.8206247240304947,
+        "metrics": {
+          "mean_score": 0.1793752759695053,
+          "std_prediction": 0.26659345626831055,
+          "positive_votes": 1
+        }
+      },
+      {
+        "cell_id": 2,
+        "bbox": [
+          20,
+          200,
+          62,
+          240
+        ],
+        "is_infected": true,
+        "confidence": 0.49872422218322754,
+        "metrics": {
+          "mean_score": 0.49872422218322754,
+          "std_prediction": 0.4253138303756714,
+          "positive_votes": 3
+        }
+      },
+      {
+        "cell_id": 3,
+        "bbox": [
+          79,
+          100,
+          117,
+          151
+        ],
+        "is_infected": false,
+        "confidence": 0.8946885094046593,
+        "metrics": {
+          "mean_score": 0.10531149059534073,
+          "std_prediction": 0.11488521844148636,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 4,
+        "bbox": [
+          127,
+          111,
+          169,
+          151
+        ],
+        "is_infected": false,
+        "confidence": 0.9761399291455746,
+        "metrics": {
+          "mean_score": 0.02386007085442543,
+          "std_prediction": 0.030947061255574226,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 5,
+        "bbox": [
+          134,
+          255,
+          172,
+          302
+        ],
+        "is_infected": true,
+        "confidence": 0.9990234375,
+        "metrics": {
+          "mean_score": 0.9990234375,
+          "std_prediction": 0.0015702445525676012,
+          "positive_votes": 5
+        }
+      },
+      {
+        "cell_id": 6,
+        "bbox": [
+          134,
+          303,
+          228,
+          361
+        ],
+        "is_infected": false,
+        "confidence": 0.9897693693637848,
+        "metrics": {
+          "mean_score": 0.01023063063621521,
+          "std_prediction": 0.01026354543864727,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 7,
+        "bbox": [
+          245,
+          217,
+          313,
+          268
+        ],
+        "is_infected": true,
+        "confidence": 0.9029674530029297,
+        "metrics": {
+          "mean_score": 0.9029674530029297,
+          "std_prediction": 0.10489185154438019,
+          "positive_votes": 5
+        }
+      },
+      {
+        "cell_id": 8,
+        "bbox": [
+          260,
+          11,
+          298,
+          51
+        ],
+        "is_infected": false,
+        "confidence": 0.9723404552787542,
+        "metrics": {
+          "mean_score": 0.027659544721245766,
+          "std_prediction": 0.03172121196985245,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 9,
+        "bbox": [
+          260,
+          279,
+          320,
+          340
+        ],
+        "is_infected": true,
+        "confidence": 0.6864185333251953,
+        "metrics": {
+          "mean_score": 0.6864185333251953,
+          "std_prediction": 0.28602731227874756,
+          "positive_votes": 3
+        }
+      },
+      {
+        "cell_id": 10,
+        "bbox": [
+          300,
+          427,
+          354,
+          440
+        ],
+        "is_infected": false,
+        "confidence": 0.938699759542942,
+        "metrics": {
+          "mean_score": 0.06130024045705795,
+          "std_prediction": 0.049597058445215225,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 11,
+        "bbox": [
+          337,
+          320,
+          376,
+          364
+        ],
+        "is_infected": false,
+        "confidence": 0.9974217924755067,
+        "metrics": {
+          "mean_score": 0.0025782075244933367,
+          "std_prediction": 0.001857259776443243,
+          "positive_votes": 0
+        }
+      },
+      {
+        "cell_id": 12,
+        "bbox": [
+          408,
+          348,
+          450,
+          395
+        ],
+        "is_infected": false,
+        "confidence": 0.7195928394794464,
+        "metrics": {
+          "mean_score": 0.2804071605205536,
+          "std_prediction": 0.19426533579826355,
+          "positive_votes": 1
+        }
+      },
+      {
+        "cell_id": 13,
+        "bbox": [
+          456,
+          358,
+          473,
+          395
+        ],
+        "is_infected": false,
+        "confidence": 0.8870841041207314,
+        "metrics": {
+          "mean_score": 0.11291589587926865,
+          "std_prediction": 0.07162796705961227,
+          "positive_votes": 0
+        }
+      }
+    ]
+  }
+]
